@@ -1,2 +1,6 @@
-# pisipixhan
-pisipixhan pisi görsel/walpaper
+# PisiPixhan
+PisiPixhan Pisi Linux ve genel Linux kullanıcılacılar için görsel/walpaper sayfasıdır.
+
+## Lisans
+
+Dilediğiniz gibi özgüre değerlendirebilirsiniz.
