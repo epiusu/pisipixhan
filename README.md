@@ -5,4 +5,4 @@ PisiPixhan, <a href="https://github.com/pisilinux/main" title="Pisi Linux">Pisi 
 
 ## Lisans
 
-- Creative Commons Zero v1.0 Universal - https://creativecommons.org/publicdomain/zero/1.0/
+ - Creative Commons Zero v1.0 Universal - https://creativecommons.org/publicdomain/zero/1.0/
